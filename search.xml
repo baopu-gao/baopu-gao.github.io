@@ -28,6 +28,9 @@
     <title><![CDATA[markdown的基本使用]]></title>
     <url>%2F2019%2F02%2F20%2Fmarkdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%2F</url>
     <content type="text"><![CDATA[一级标题二级标题三级标题 列表1 列表2a 子列表1b 子列表2 列表3 — 加横线*** 加横线 [HEXO官网]（https://hexo.io/zh-cn/） ![插入图片]（图床连接地址） 字体：斜体字体：加粗 &lt;html&gt;&lt;/html&gt; 123456&lt;html&gt; &lt;head&gt; &lt;title&gt;我是标题哦&lt;/title&gt; &lt;/head&gt; &lt;body&gt;&lt;/body&gt;&lt;/html&gt; 我的内容是引用的哦]]></content>
+      <categories>
+        <category>生活技能</category>
+      </categories>
       <tags>
         <tag>方法</tag>
       </tags>
